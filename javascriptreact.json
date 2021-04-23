@@ -1,0 +1,17 @@
+{
+    "Javascript React Function Component": {
+        "prefix": "jsrfc",
+        "body": [
+            "import React from \"react\";",
+            "\nconst $TM_FILENAME_BASE = () => {",
+            "\n\treturn (",
+            "\t\t<div>",
+            "\t\t\t$2",
+            "\t\t</div>",
+            "\t);",
+            "};",
+            "\nexport default $TM_FILENAME_BASE;\n"
+        ],
+        "description": "Create js React function component"
+    }
+}
