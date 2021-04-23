@@ -1,0 +1,18 @@
+{
+    "Typescript React Function Component": {
+		"prefix": "tsrfc",
+		"body": [
+			"import React, { FunctionComponent } from \"react\";",
+			"\ninterface ${TM_FILENAME_BASE}Props { };",
+			"\nconst $TM_FILENAME_BASE: FunctionComponent<${TM_FILENAME_BASE}Props> = () => {",
+			"\n\treturn (",
+			"\t\t<div>",
+			"\t\t\t$2",
+			"\t\t</div>",
+			"\t);",
+			"};",
+			"\nexport default $TM_FILENAME_BASE;\n"
+		],
+		"description": "Create ts React function component"
+	}
+}
