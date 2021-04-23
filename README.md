@@ -15,7 +15,7 @@ Command palette:
 >javascriptreact 
 ```
 
-This will create a json file for configuration
+This will create a json file javascriptreact.json
 
 ```javascript
 {
